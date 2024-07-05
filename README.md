@@ -1,2 +1,2 @@
-Projeto realizado dentro do curso Bootcamp Phyton.
-Sistema bancário usando phyton.
+Projeto realizado dentro do curso Bootcamp Python.
+Sistema bancário usando python.
